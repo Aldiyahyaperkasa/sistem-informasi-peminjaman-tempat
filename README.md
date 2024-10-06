@@ -1,3 +1,17 @@
+## role admin
+USERNAME : admin
+PASSWORD : admin
+
+## role user / pengguna
+USERNAME : user
+PASSWORD : user
+
+## Requirement
+PHP 7.4 or Newer
+Codeigniter 4
+Bootstrap 5.0
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
